@@ -1,1 +1,2 @@
-console.log("test 3 conflict")
+console.log("test 2")
+console.log("more tests")
